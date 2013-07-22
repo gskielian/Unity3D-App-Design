@@ -19,4 +19,7 @@ choose one or more of the following:
 ### Level Portal
 First we will make a level portal --  allowing you to warp between worlds you made.
 
+See Gist and Participate on Forum:
+https://gist.github.com/gskielian/6051105
+
 
