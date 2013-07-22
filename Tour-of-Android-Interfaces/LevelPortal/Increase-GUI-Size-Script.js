@@ -15,7 +15,7 @@ function Update()
 {
 	if (toggle)
 	{
-		InscreaseSize();
+		IncreaseSize();
 	}
 
 }
